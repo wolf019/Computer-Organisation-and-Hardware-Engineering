@@ -22,7 +22,7 @@ The course is divided into six different modules, which for example include the 
 - Explain and describe technical solutions both orally and in writing. 
 
 ## Project Expo
-### This project won the award for greatest hardware project [Winner](https://github.com/wolf019/IS1200-Computer-Organisation-and-Hardware-Engineering/edit/master/no1.md)
+### This project won the award for greatest hardware project [Winner](https://github.com/wolf019/IS1200-Computer-Organisation-and-Hardware-Engineering/blob/master/no1.png)
 
 - Each group should consist of 2 students. Should be the same as the lab groups.
 - Student groups may collaborate, i.e., projects may be connected.
