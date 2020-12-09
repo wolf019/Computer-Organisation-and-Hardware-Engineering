@@ -24,7 +24,7 @@ The course is divided into six different modules, which for example include the 
 ## Project Expo
 ### This project won the award for greatest hardware project 
 
-[Demo](https://github.com/wolf019/IS1200-Computer-Organisation-and-Hardware-Engineering/blob/master/IMG_2673.mov)
+[Please download to see Demo](https://github.com/wolf019/IS1200-Computer-Organisation-and-Hardware-Engineering/blob/master/IMG_2673.mov)
 
 [Winner](https://github.com/wolf019/IS1200-Computer-Organisation-and-Hardware-Engineering/blob/master/no1.png)
 
