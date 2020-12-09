@@ -22,14 +22,14 @@ The course is divided into six different modules, which for example include the 
 - Explain and describe technical solutions both orally and in writing. 
 
 ## Project Expo
+## This project won the award for greatest hardware project
 
-Each group should consist of 2 students. Should be the same as the lab groups.
-•  Student groups may collaborate, i.e., projects may be connected.
-•  You must use the ChipKIT hardware and you may add additional hardware components.
-•  Each group can borrow a hardware kit for free!
-•  Either you do a basic project or an advanced
-project (required to be able to get grades A or B)
-•  More info will come on lecture 6. See also the course web.
+- Each group should consist of 2 students. Should be the same as the lab groups.
+- Student groups may collaborate, i.e., projects may be connected.
+- You must use the ChipKIT hardware and you may add additional hardware components.
+- Each group can borrow a hardware kit for free!
+- Either you do a basic project or an advanced project (required to be able to get grades A or B)
+- More info will come on lecture 6. See also the course web.
+- 307 students registerd on the course
 
-Of the 
-Project 
+
